@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\main_module_integrated(v0.2)\\lib\\build\\intermediates\\res\\merged\\debug\\layout\\crop__activity_crop.xml",
+        "source": "E:\\main_module_integrated(v0.2)\\lib\\src\\main\\res\\layout\\crop__activity_crop.xml"
+    },
+    {
+        "merged": "E:\\main_module_integrated(v0.2)\\lib\\build\\intermediates\\res\\merged\\debug\\layout\\crop__layout_done_cancel.xml",
+        "source": "E:\\main_module_integrated(v0.2)\\lib\\src\\main\\res\\layout\\crop__layout_done_cancel.xml"
+    }
+]

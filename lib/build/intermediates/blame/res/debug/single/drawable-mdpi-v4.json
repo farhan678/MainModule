@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\main_module_integrated(v0.2)\\lib\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\crop__ic_done.png",
+        "source": "E:\\main_module_integrated(v0.2)\\lib\\src\\main\\res\\drawable-mdpi\\crop__ic_done.png"
+    },
+    {
+        "merged": "E:\\main_module_integrated(v0.2)\\lib\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\crop__ic_cancel.png",
+        "source": "E:\\main_module_integrated(v0.2)\\lib\\src\\main\\res\\drawable-mdpi\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "E:\\main_module_integrated(v0.2)\\lib\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\crop__divider.9.png",
+        "source": "E:\\main_module_integrated(v0.2)\\lib\\src\\main\\res\\drawable-mdpi\\crop__divider.9.png"
+    }
+]

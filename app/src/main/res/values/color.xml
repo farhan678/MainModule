@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="black">#000</color>
+    <color name="orange">#B71C1C</color>
+    <color name="white">#FFF</color>
+
+    <!--new Changes-->
+    <color name="colorPrimary">#B71C1C</color>
+     <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#3A90C9</color>
+    <!-- <color name="colorAccent">#FF4081</color> -->
+    <color name="colorAccent">#c92d2a</color>
+    <color name="cSubMenuButtonColor">#cb644f</color>
+    <color name="cButtonTextColor">#ffffff</color>
+    <color name="cListBackColor">#cb644f</color>
+    <color name="cListTextColor">#ffffff</color>
+    <color name="cListBlackTextColor">#000000</color>
+</resources>
